@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#header-nav{
+
+}
+.navbar-default{
+  background-color: rgb(193, 193, 193);
+  border-radius: 0;
+  border-top: 3px solid rgb(70, 70, 70);
+  border-bottom: 3px solid rgb(70, 70, 70);
+}
+.icon-bar{
+  border:2px solid rgb(70,70,70);
+}
+
+li{
+  background-color: rgb(205, 205, 205);
+  color: rgb(106, 106, 106);
+  font-weight: bold;
+}
+
+
+.navbar-brand {
+  font-weight: bold;
+}
+.col-lg-12{
+  background-color: rgb(193, 193, 193);
+}
+
+h2{
+  padding:0px 0 20px 0;
+}
+p{
+  line-height: 1.8em;
+}
+.col-lg-12 h4{
+  padding:10px 0;
+}
